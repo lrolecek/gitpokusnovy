@@ -3,3 +3,7 @@ Tady to je soubor, ve kterem je neco napsaneho.
 - tralala
 - lalala
 - juchuchu
+
+Tady pridam dalsi text
+
+A jeste neco
